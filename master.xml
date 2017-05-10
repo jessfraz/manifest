@@ -27,17 +27,17 @@ Your sources have been sync'd successfully.
            groups="minilayout" remote="cros" />
 
        <project path="src/scripts"
-           name="jessfraz/scripts"
+           name="jkutemeier/scripts"
            revision="desktop"
            groups="minilayout" />
 
   <project path="src/third_party/portage-stable"
-           name="jessfraz/portage-stable"
+           name="jkutemeier/portage-stable"
            revision="desktop"
            groups="minilayout" />
 
   <project path="src/third_party/coreos-overlay"
-           name="jessfraz/coreos-overlay"
+           name="jkutemeier/coreos-overlay"
            revision="desktop"
            groups="minilayout" />
 
@@ -54,7 +54,7 @@ Your sources have been sync'd successfully.
            groups="minilayout" />
 
   <project path="src/third_party/init"
-           name="jessfraz/init"
+           name="jkutemeier/init"
            groups="minilayout" />
 
   <project path="src/third_party/bootengine"
@@ -98,7 +98,7 @@ Your sources have been sync'd successfully.
            groups="minilayout" />
 
   <project path="src/third_party/baselayout"
-           name="jessfraz/baselayout"
+           name="jkutemeier/baselayout"
            groups="minilayout" />
 
   <project path="src/third_party/coreos-cloudinit"
